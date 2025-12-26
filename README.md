@@ -4,7 +4,7 @@ Need a Fixed Outbound IP for Your API/IP Allowlisting? We provide a managed Stat
 
 ## Why Choose Us?
 - **Static Outbound IPv4** (Shared or Dedicated)
-- **HTTPS CONNECT 80 443 only** (NOT a VPN)
+- **HTTPS CONNECT 80 443 only** (NOT a VPN. Other service ports DM communication)
 - **Strict Domain Allowlist** (wildcards supported)
 - **Blocks Private/Reserved IP Ranges** (SSRF protection)
 - **Metered by Bytes** + **Hard Traffic Cap**
