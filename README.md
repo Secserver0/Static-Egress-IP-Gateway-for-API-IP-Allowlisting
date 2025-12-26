@@ -75,6 +75,7 @@ You’ll need a **static outbound IP** (or a set of them) to be whitelisted for 
 - 24h–48h access (you decide)
 - Setup instructions + test command
 - Delivery: 8–12h
+- The $1 trial fee can be credited toward your monthly subscription.
 
 ### **STANDARD — Shared IP (Monthly)** ------ $39
 - 1 shared static egress IPv4
