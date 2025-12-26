@@ -83,7 +83,7 @@ You’ll need a **static outbound IP** (or a set of them) to be whitelisted for 
 - Larger allowlist (up to 20 domains/wildcards)
 - HA add-on：+2nd IP for failover (+$29)
 - Logs: 7 days + usage snapshot on request
-- Hard cap: auto-pause at quota, top-up to resume($10 / 100GB（=$0.10/GB）)
+- Hard cap: auto-pause at quota, top-up to resume($10 / 100GB (=$0.10/GB))
 - Delivery: 8–12h
 
 ### **PREMIUM — Dedicated IP (Monthly)** ------ $89
@@ -92,7 +92,7 @@ You’ll need a **static outbound IP** (or a set of them) to be whitelisted for 
 - Larger allowlist (50+ domains/wildcards)
 - HA add-on：+2nd IP for failover (+$49)
 - Logs: 30 days + priority troubleshooting
-- Hard cap + top-up($8 / 100GB（=$0.08/GB)
+- Hard cap + top-up($8 / 100GB (=$0.08/GB))
 - Delivery: 8–12h
 
 ## Contact & Support
